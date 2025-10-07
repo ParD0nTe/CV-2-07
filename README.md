@@ -73,6 +73,7 @@ python template_match.py --image_path myphoto.jpg --tpl_rect 100 50 80 80 --meth
 Также появятся 2 окна с изображениями:
  - Исходное с прямоугольником найденного шаблона
  - Карта отклика matchTemplate
+   
 И будут сохранены файлы:
  - match_result_1.png
  - match_result_2.png
